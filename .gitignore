@@ -1,0 +1,14 @@
+# 忽略所有非程式碼的檔案
+*.PDF
+*.pdf
+*.pages
+*/.gitignore
+*/.git
+
+
+# 忽略特定資料夾
+Examples
+Kotlin
+Lec
+HW/W2
+

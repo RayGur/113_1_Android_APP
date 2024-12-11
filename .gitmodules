@@ -1,0 +1,24 @@
+[submodule "HW/W10/w10_hw"]
+	path = HW/W10/w10_hw
+	url = https://github.com/RayGur/w10_hw.git
+[submodule "HW/W12"]
+	path = HW/W12
+	url = https://github.com/RayGur/w12_hw.git
+[submodule "Lab/W10_lab"]
+	path = Lab/W10_lab
+	url = https://github.com/RayGur/w10_lab.git
+[submodule "Lab/W2/Lab0-3"]
+	path = Lab/W2/Lab0-3
+	url = hhttps://github.com/RayGur/Lab0-3.git
+[submodule "Lab/W7"]
+	path = Lab/W7
+	url = https://github.com/RayGur/w7_lab.git
+[submodule "Lab/W8"]
+	path = Lab/W8
+	url = https://github.com/RayGur/w8_lab.git
+[submodule "Lab/W2/lab0-1-RayGur"]
+	path = Lab/W2/lab0-1-RayGur
+	url = https://github.com/mmslab-java/lab0-1-RayGur
+[submodule "Lab/W2/lab0-2-RayGur"]
+	path = Lab/W2/lab0-2-RayGur
+	url = https://github.com/mmslab-java/lab0-1-RayGur
