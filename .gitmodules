@@ -25,3 +25,6 @@
 [submodule "Lab/W11_lab"]
 	path = Lab/W11_lab
 	url = https://github.com/RayGur/w11_lab.git
+[submodule "Lab/W12_lab"]
+	path = Lab/W12_lab
+	url = https://github.com/RayGur/w12_lab.git
