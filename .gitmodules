@@ -22,3 +22,6 @@
 [submodule "Lab/W2/lab0-2-RayGur"]
 	path = Lab/W2/lab0-2-RayGur
 	url = https://github.com/mmslab-java/lab0-1-RayGur
+[submodule "Lab/W11_lab"]
+	path = Lab/W11_lab
+	url = https://github.com/RayGur/w11_lab.git
